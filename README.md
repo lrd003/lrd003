@@ -1,4 +1,4 @@
-### Olá !!! Eu sou o Leonardo de Oliveira Gonçalves
+### Hi!!! My name is Leonardo de Oliveira Gonçalves. Welcome to my profile
 
 <div align="center">
   <a href="https://github.com/lrd003">
