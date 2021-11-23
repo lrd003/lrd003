@@ -30,8 +30,12 @@ _____________________________________________________________________________
   <a href = "mailto:leo.gonsa003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-gonsa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
- <p></p>
+<p></p>
   
+<p align="center">
+    Número de visitas: <br> <img src="https://profile-counter.glitch.me/lrd003/count.svg" alt="contador de visitas">
+</p>
+ 
 <div align="center">
   <a href="https://github.com/lrd003">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lrd003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
