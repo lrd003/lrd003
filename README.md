@@ -7,7 +7,7 @@
 </div>
 
   
-### Tecnologias que AMO!  
+### Technologies I love  
 <div style="display: inline_block"><br>
   <img align="center" alt="leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,16 +17,17 @@
   <img align="center" alt="leo-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
   
-### Sobre mim
+### About me 
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src=""/>
-<p> - 👨‍🎓 Estudante de Engenharia de Software, atualmente estou cursando o 6° semestre. </p>
-<p> - 🎯 Interesse: HTML, CSS, JS, React Native, C++, AWS. </p>
-<p> - 🥊 Objetivo: Me tornar um bom desenvolvedor, afim de nunca em hipótese alguma para de crescer profissionalmente e pessoalmente, além de me tornar capaz de multiplicar o capital intelectual dentro das empresas, para que futuramente eu me torne dono do meu próprio negócio!!!
-<p> - 🎮 Nos meus tempos "livres" gosto de ler livros e principalmente me distrair jogando um bom e velho FPS.</p>
+<img align="right" width="400" height="290" style="border-radius:30px;" src="leo.gif?raw=true"/>
+<p> - 👨‍🎓 Software Engineering student, I am currently taking the 6th semester. </p>
+<p> - 🎯 Interests: HTML, CSS, JS, React Native, C++, AWS. </p>
+<p> - 🥊 Objective: Become a good developer, in order to never, under any circumstances, stop growing professionally and personally, in addition to becoming capable of multiplying intellectual capital within companies, so that in the future I become the owner of my own business!!!
+<p> - 🎮 In my "free" times I like to read books and mainly distract myself by playing a good old FPS.</p>
   
 </div>
- 
+
+ ### Social networks 
 <div> 
   <a href="https://www.youtube.com/channel/UCjmsmXoV1B-rtyAv25lmhfg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/leo.gonsa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
