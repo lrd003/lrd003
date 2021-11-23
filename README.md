@@ -1,15 +1,14 @@
 <img align="center" width="1000" height="500" style="border-radius:30px;" src="welcome.gif?raw=true"/>
 
 ### Hi!!! My name is Leonardo de Oliveira Gonçalves. Welcome to my profile
-
+_____________________________________________________________________________
 ### About me 
 <div style="display: inline_block"  >
-<img align="right" width="400" height="290" style="border-radius:30px;" src="leo.gif?raw=true"/>
-<p> - 👨‍🎓 Software Engineering student, I am currently taking the 6th semester. </p>
-<p> - 🎯 Interests: HTML, CSS, JS, React Native, C++, AWS. </p>
-<p> - 🥊 Objective: Become a good developer, in order to never, under any circumstances, stop growing professionally and personally, in addition to becoming capable of multiplying intellectual capital within companies, so that in the future I become the owner of my own business!!!
-<p> - 🎮 In my "free" times I like to read books and mainly distract myself by playing a good old FPS.</p>
-  
+  <img align="right" width="400" height="290" style="border-radius:30px;" src="leo.gif?raw=true"/>
+  <p> - 👨‍🎓 Software Engineering student, I am currently taking the 6th semester. </p>
+  <p> - 🎯 Interests: HTML, CSS, JS, React Native, C++, AWS. </p>
+  <p> - 🥊 Objective: Become a good developer, in order to never, under any circumstances, stop growing professionally and personally, in addition to becoming capable of multiplying intellectual capital within companies, so that in the future I become the owner of my own business!!!
+  <p> - 🎮 In my "free" times I like to read books and mainly distract myself by playing a good old FPS.</p>
 </div>
 
 ### Technologies I love  
