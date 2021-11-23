@@ -1,10 +1,19 @@
-<img align="center" width="1000" height="500" style="border-radius:30px;" src="welcome.gif?raw=true"/>
-
 ### Hi!!! My name is Leonardo de Oliveira Gonçalves. Welcome to my profile
 _____________________________________________________________________________
+
+<p align="center"> 
+  Number of visitors:<br><img src="https://profile-counter.glitch.me/lrd003/count.svg" alt="contador de visitas">
+</p>
+
+<div align="center">
+  <a href="https://github.com/lrd003">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lrd003&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrd003&layout=compact&langs_count=7&theme=dark">
+</div>
+
 ### About me 
 <div style="display: inline_block"  >
-  <img align="right" width="400" height="290" style="border-radius:30px;" src="leo.gif?raw=true"/>
+  <img align="right" width="389" height="280" style="border-radius:30px;" src="leo.gif?raw=true"/>
   <p> - 👨‍🎓 Software Engineering student, I am currently taking the 6th semester. </p>
   <p> - 🎯 Interests: HTML, CSS, JS, React Native, C++, AWS. </p>
   <p> - 🥊 Objective: Become a good developer, in order to never, under any circumstances, stop growing professionally and personally, in addition to becoming capable of multiplying intellectual capital within companies, so that in the future I become the owner of my own business!!!
@@ -32,15 +41,7 @@ _____________________________________________________________________________
   
 <p></p>
   
-<p align="center">
-    Número de visitas: <br> <img src="https://profile-counter.glitch.me/lrd003/count.svg" alt="contador de visitas">
-</p>
- 
-<div align="center">
-  <a href="https://github.com/lrd003">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lrd003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrd003&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
  
   ![Snake animation](https://github.com/lrd003/lrd003/blob/output/github-contribution-grid-snake.svg)
  
