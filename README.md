@@ -13,11 +13,11 @@ _____________________________________________________________________________
 
 ### About me 
 <div style="display: inline_block"  >
-  <img align="right" width="389" height="280" style="border-radius:30px;" src="leo.gif?raw=true"/>
+  <img align="right" width="400" height="280" style="border-radius:30px;" src="babyYoda.gif?raw=true"/>
   <p> - 👨‍🎓 Software Engineering student, I am currently taking the 6th semester. </p>
   <p> - 🎯 Interests: HTML, CSS, JS, React Native, C++, AWS. </p>
   <p> - 🥊 Objective: Become a good developer, in order to never, under any circumstances, stop growing professionally and personally, in addition to becoming capable of multiplying intellectual capital within companies, so that in the future I become the owner of my own business!!!
-  <p> - 🎮 In my "free" times I like to read books and mainly distract myself by playing a good old FPS.</p>
+  <p> - 🎮 In my "free" times, I like to read books and mostly distract myself by playing a good old FPS or watching Star Wars.</p>
 </div>
 
 ### Technologies I love  
@@ -39,11 +39,9 @@ _____________________________________________________________________________
   <a href = "mailto:leo.gonsa003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-gonsa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-<p></p>
-  
 
- 
   ![Snake animation](https://github.com/lrd003/lrd003/blob/output/github-contribution-grid-snake.svg)
  
+  <img align="right" width="1000" height="280" style="border-radius:30px;" src="yoda.gif?raw=true"/>
 </div>
 
