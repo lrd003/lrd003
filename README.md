@@ -13,7 +13,7 @@ _____________________________________________________________________________
 
 ### About me 
 <div style="display: inline_block"  >
-  <img align="right" width="400" height="280" style="border-radius:30px;" src="babyYoda.gif?raw=true"/>
+<!--   <img align="right" width="350" height="280" style="border-radius:30px;" src="babyYoda.gif?raw=true"/> -->
   <p> - 👨‍🎓 Software Engineering student, I am currently taking the 7th semester. </p>
   <p> - 🎯 Interests: HTML, CSS, JS, React Native, C++, AWS. </p>
   <p> - 🥊 Objective: Become a good developer, in order to never, under any circumstances, stop growing professionally and personally, in addition to becoming capable of multiplying intellectual capital within companies, so that in the future I become the owner of my own business!!!
