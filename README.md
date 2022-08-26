@@ -42,6 +42,6 @@ _____________________________________________________________________________
 
   ![Snake animation](https://github.com/lrd003/lrd003/blob/output/github-contribution-grid-snake.svg)
  
-  <img align="right" width="1000" height="280" style="border-radius:30px;" src="yoda.gif?raw=true"/>
+  <img align="right" width="950" height="280" style="border-radius:30px;" src="yoda.gif?raw=true"/>
 </div>
 
