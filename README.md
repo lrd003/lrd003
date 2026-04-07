@@ -1,16 +1,12 @@
 ### Hi!!! My name is Leonardo de Oliveira Gonçalves. Welcome to my profile
 _____________________________________________________________________________
 
-<div align="center">
-  <a href="https://github.com/lrd003">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lrd003&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrd003&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
+![Contador de Visitas](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue&style=flat&label=VISITAS)
 
 ### About me 
 <div style="display: inline_block"  >
 <!--   <img align="right" width="350" height="280" style="border-radius:30px;" src="babyYoda.gif?raw=true"/> -->
-  <p> - 👨‍🎓 Software Engineering student, I am currently taking the 7th semester. </p>
+  <p> - 👨‍🎓 Software Engineering </p>
   <p> - 🎯 Interests: HTML, CSS, JS, React Native, C++, AWS. </p>
   <p> - 🥊 Objective: Become a good developer, in order to never, under any circumstances, stop growing professionally and personally, in addition to becoming capable of multiplying intellectual capital within companies, so that in the future I become the owner of my own business!!!
   <p> - 🎮 In my "free" times, I like to read books and mostly distract myself by playing a good old FPS or watching Star Wars.</p>
