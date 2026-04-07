@@ -3,7 +3,7 @@ _____________________________________________________________________________
 
 <div align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=lrd003&color=black&style=for-the-badge&label=VISITAS" 
+    src="https://komarev.com/ghpvc/?username=lrd003&style=for-the-badge&label=VISITAS" 
     alt="Contador de Visitas" 
     style="border-radius: 12px; padding: 5px;" 
   />
