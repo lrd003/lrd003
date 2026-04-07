@@ -1,10 +1,10 @@
 ### Hi!!! My name is Leonardo de Oliveira Gonçalves. Welcome to my profile
 _____________________________________________________________________________
-
+/*
 <p align="center"> 
   Number of visitors:<br><img src="https://profile-counter.glitch.me/lrd003/count.svg" alt="contador de visitas">
 </p>
-
+*/
 <div align="center">
   <a href="https://github.com/lrd003">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lrd003&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
