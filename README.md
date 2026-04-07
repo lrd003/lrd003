@@ -1,7 +1,13 @@
 ### Hi!!! My name is Leonardo de Oliveira Gonçalves. Welcome to my profile
 _____________________________________________________________________________
 
-![Contador de Visitas](https://komarev.com/ghpvc/?username=lrd003&color=blue&style=flat&label=VISITAS)
+<div align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=lrd003&color=grey&style=for-the-badge&label=VISITAS" 
+    alt="Contador de Visitas" 
+  />
+</div>
+
 
 ### About me 
 <div style="display: inline_block"  >
